@@ -1,0 +1,21 @@
+add 6+10j 4+13j
+add 15+7j 8+8j
+add 9+24j 2+32j
+sub 6+10j 4+13j
+sub 15+7j 8+8j
+sub 9+24j 2+32j
+multi 6+10j 4+13j
+multi 15+7j 8+8j
+multi 9+24j 2+32j
+division 6+10j 4+13j
+division 15+7j 8+8j
+division 9+24j 2+32j
+length 6+10j
+length 15+7j
+length 9+24j
+real 6+10j
+real 15+7j
+real 9+24j
+img 6+10j
+img 15+7j
+img 9+24j
